@@ -1,7 +1,7 @@
 # Weather Journal App
 
-**Submitted by:** Nithin Nambi (118989761)  
-**Group Members:** Nithin Nambi (118989761), Ryan Lacourciere (118996547), Archer Sariscak (118661537), Kurt K ()
+**Submitted by:** Archer Sariscak (118661537)  
+**Group Members:** Nithin Nambi (118989761), Ryan Lacourciere (118996547), Archer Sariscak (118661537), Kurt Klaus (118285276)
 
 
 ## App Description
