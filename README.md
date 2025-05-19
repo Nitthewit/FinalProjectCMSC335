@@ -9,7 +9,7 @@ A simple weather journal app where users enter their name and city, fetch real t
 
 
 ## YouTube Video Link  
-PUT THE LINK TO THE YOUTUBE VIDEO HERE make sure link is in markdown html format
+[https://openweathermap.org/api](https://youtu.be/bReCcniILyE)
 
 
 ## APIs  
